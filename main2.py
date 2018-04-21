@@ -1,2 +1,4 @@
 a=input()
-print(float(a*3.546))
+print(float(a))
+#new command
+print("hello git")
