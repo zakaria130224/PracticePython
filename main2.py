@@ -1,4 +1,8 @@
-a=input()
-print(float(a))
-#new command
-print("hello git")
+# a=input()
+# print(float(a))
+# #new command
+# print("hello git")
+
+for x in range(1, 11):
+    for y in range(1, 11):
+        print ('%d * %d = %d' % (x, y, x*y))
